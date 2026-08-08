@@ -6,6 +6,6 @@ print(a.capitalize())#only capitalize the 1st letter
 print(a.replace("Vai","Laude"))
 print(a.find("Vai"))#only return index no. if the string is not in it thn returns -1
 print(a.upper())
-#/n adds a new ine
+#/n adds a new line
 b = "hemlo\nvaijaan"
 print(b)
